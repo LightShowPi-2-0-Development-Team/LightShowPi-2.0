@@ -1,2 +1,4 @@
-# LightShowPi-2.0-First-Draft
+# Light-Symphony-First-Draft
 A better version of LightShowPi
+
+Rebranded to Light Symphony on 8/15/2024
